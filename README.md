@@ -22,3 +22,13 @@ txindex=1
 rpcallowip=127.0.0.1
 
 whitelist=127.0.0.1
+
+
+# rpc.php
+
+
+$grpcuser='galaxy';
+
+$grpcpass='frontier';
+
+$grpcportk='9992';
